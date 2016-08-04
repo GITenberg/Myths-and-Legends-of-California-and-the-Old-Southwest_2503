@@ -1,0 +1,28 @@
+_repo: Myths-and-Legends-of-California-and-the-Old-Southwest_2503
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Judson, Katharine Berry
+    alias: Judson, Katharine B. (Katharine Berry)
+    birthdate: 1866
+    gutenberg_agent_id: '943'
+    url: http://www.gutenberg.org/2009/agents/943
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Folklore
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- California -- Folklore'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Southwest, New -- Folklore'
+- GITenberg
+title: Myths and Legends of California and the Old Southwest
+url: http://www.gutenberg.org/ebooks/2503
